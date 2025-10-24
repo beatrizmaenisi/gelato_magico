@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/User/Documents/Cursos/Python/GelatoMagico-ml/mlruns/420714510725972916/6cc016de81944f56bb796f804d84112c/artifacts
+end_time: 1761342987772
+entry_point_name: ''
+experiment_id: '420714510725972916'
+lifecycle_stage: active
+run_id: 6cc016de81944f56bb796f804d84112c
+run_name: rumbling-mouse-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761342966064
+status: 3
+tags: []
+user_id: User
